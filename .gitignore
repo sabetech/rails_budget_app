@@ -1,2 +1,4 @@
 tmp/
 tmp/cache/
+node_modules
+app/assets/builds
