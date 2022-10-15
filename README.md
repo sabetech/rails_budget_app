@@ -8,10 +8,9 @@ _[Here](https://www.loom.com/share/2493da8e15e14088827bc8d9ca24d71c)  The presen
 
 
 
-  Splash Screen
-  ![screenshot](./app/assets/images/categories.png)        
-  ![screenshot](./app/assets/images/signup.png)
-
+Splash Screen
+![screenshot](./app/assets/images/categories.png)        
+![screenshot](./app/assets/images/signup.png)
 
 
 # Getting Started
