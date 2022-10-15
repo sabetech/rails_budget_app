@@ -5,7 +5,7 @@
 
 # The App Deployment
 _[Here](https://www.loom.com/share/2493da8e15e14088827bc8d9ca24d71c)  The presentation video link_
-_[Live](https://e-budget-plan.herokuapp.com/) The Live Application on Netlify
+_[Live Link](https://e-budget-plan.herokuapp.com/) The Live Application on Netlify
 
 Splash Screen
 ![screenshot](./app/assets/images/categories.png)        
