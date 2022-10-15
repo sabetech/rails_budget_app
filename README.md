@@ -83,6 +83,7 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was a source of inspiration.
 - A big thanks to [@microverseinc](https://github.com/microverseinc).
+- Thanks to [@gregoirvella](https://www.behance.net/gregoirevella) for the UI inspiration.
 
 # 📝 License
 
